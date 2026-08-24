@@ -11,7 +11,7 @@ export const LOCATION_DATA = {
   phoneClean: '+919538238355',
   instagram: 'dripanddropcoffee',
   instagramUrl: 'https://instagram.com/dripanddropcoffee',
-  mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Drip+and+Drop+Coffee+289+15th+Cross+Road+5th+Phase+JP+Nagar+Bengaluru+560078',
+  mapsUrl: 'https://maps.app.goo.gl/WGY64zbjfhZmFmSM7',
   embedMapQuery: '289, 15th Cross Road, 5th Phase, JP Nagar, Bengaluru, Karnataka 560078',
   hours: [
     { days: 'Monday — Thursday', time: '9:00 AM — 10:00 PM' },
